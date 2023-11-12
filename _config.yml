@@ -84,7 +84,7 @@ author:
   avatar           : "Betabanenmarkt-026 ALT.jpg"
   bio              : "Mathematics & Statistics"
   location         : "Leiden, The Netherlands"
-  employer         : "https://www.bigstatistics.nl/" 
+  employer         : "Amsterdam UMC" 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "t.jacobs2@amsterdamumc.nl"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tijn-jacobs"
+  github           : # "tijn-jacobs"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tijn-jacobs-869554165/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
