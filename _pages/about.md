@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research interests"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Bayesian causal inference in high-dimensions.
+I bla bla bla
+
+
+# Research interests:
+ - Causal Inference
+ - Bayesian Nonparametric Statistics
+ - High-dimensional Data
+ - Survival Analysis
