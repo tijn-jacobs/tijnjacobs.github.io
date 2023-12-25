@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an PhD student in the [Big Statistics](https://www.bigstatistics.nl/) were I work under the supervison of [Stéphanie van der Pas](https://www.stephanievanderpas.nl/) and [Wessel van Wieringen](https://www.few.vu.nl/~wvanwie/).
+I am an PhD student in the [Big Statistics](https://www.bigstatistics.nl/) section were I work under the supervison of [Stéphanie van der Pas](https://www.stephanievanderpas.nl/) and [Wessel van Wieringen](https://www.few.vu.nl/~wvanwie/). My research focuses on the development of Bayesian statistical methods for causal inference. 
 
 
 # Research interests:
