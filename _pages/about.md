@@ -12,7 +12,7 @@ I am an PhD student in the [Big Statistics](https://www.bigstatistics.nl/) secti
 
 
 # Research interests:
- - Causal Inference
- - Bayesian Nonparametric Statistics
- - High-dimensional Data
- - Survival Analysis
+ - Causal inference
+ - Bayesian nonparametric methods
+ - High-dimensional data
+ - Survival analysis
