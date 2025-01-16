@@ -84,10 +84,10 @@ author:
   avatar           : "Research photo.jpeg"
   bio              : "Mathematics & Statistics"
   location         : #"Leiden, The Netherlands"
-  employer         : # Amsterdam UMC
+  employer         : # Vrije Universiteit Amsterdam 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "t.jacobs2 [at] amsterdamumc [dot] nl"
+  email            : "t.jacobs [at] vu [dot] nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
